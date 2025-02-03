@@ -41,7 +41,7 @@ public boolean palindrome(String word)
   if(a.equals(reverse(a))){
     return true;
   }
-  return false;
+  
   return false;
 }
 public String reverse(String str)
